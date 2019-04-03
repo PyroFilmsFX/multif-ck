@@ -1,5 +1,5 @@
 # What?
-Multif-ck is writt in BrainF-ck.
+Multif-ck is written in BrainF-ck.
 
 Multif-ck will take two seperate inputs of unsigned single digit integers. They will be multiplied and their result will be printed.
 
