@@ -1,5 +1,9 @@
 # What?
-Multiply 2 unsigned single digit integers written in brainf-ck. BF is a famous esoteric language, you can read more about its history [here](https://esolangs.org/wiki/brainfuck).
+Multif-ck is writt in BrainF-ck.
+
+Multif-ck will take two seperate inputs of unsigned single digit integers. They will be multiplied and their result will be printed.
+
+BF is a famous esoteric language, you can read more about its history [here](https://esolangs.org/wiki/brainfuck).
 
 BF is Turing-complete, has 20,000 memory cells (0-255), and is written with only 8 characters:
 
