@@ -1,2 +1,2 @@
 # multiply
-Multiply 2 unsigned single digit integers written in brainf*ck
+Multiply 2 unsigned single digit integers written in brainf\*ck
