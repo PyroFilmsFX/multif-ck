@@ -1,7 +1,7 @@
 # What?
 Multif-ck is written in BrainF-ck.
 
-Multif-ck will take two seperate inputs of unsigned single digit integers. They will be multiplied and their result will be printed.
+Multif-ck will take two separate inputs of unsigned single digit integers. They will be multiplied and their result will be printed.
 
 BF is a famous esoteric language, you can read more about its history [here](https://esolangs.org/wiki/brainfuck).
 
