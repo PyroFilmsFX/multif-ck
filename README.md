@@ -7,7 +7,7 @@ BF is a famous esoteric language, you can read more about its history [here](htt
 
 BF is Turing-complete, has 20,000 memory cells (0-255), and is written with only 8 characters:
 
->\ > < + - . , [ ]
+> \> < + - . , [ ]
 
 # Why?
 Having heard of BF before, I have always wanted to try my hand at learning and creating a program. Originally a joke to play around with BF, soon turned self challange after a friend suggested for each of us to try develop a program to handle multiplication. With no references, and learning BF only a couple days prior to completion, I present: multif-ck.
